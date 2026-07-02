@@ -1,3 +1,29 @@
+# ⚠️ This repository is being archived
+
+**`xmldom` is no longer actively maintained and will be archived (made read-only) on 8 July 2026.** After that date, Issues and Pull Requests will be disabled.
+
+## What this means
+
+- The repository will be archived (read-only) on **8 July 2026**.
+- We are **not** looking to transfer ownership of this project to a new maintainer.
+- **All existing releases remain available** up to the last one published.
+
+## What you should do
+
+- We **encourage all users and dependents to find a replacement** that fits their needs.
+
+## Timeline
+
+| Date | What happens |
+| --- | --- |
+| **2 July 2026** | This announcement; README updated. |
+| **8 July 2026** | Repository archived; Issues and PRs disabled. |
+| **4 January 2027** | `xmldom` npm package marked as deprecated. |
+
+Thank you to everyone who has used and contributed to this project over the years.
+
+---
+
 # XMLDOM [![Build Status](https://secure.travis-ci.org/bigeasy/xmldom.png?branch=master)](http://travis-ci.org/bigeasy/xmldom) [![Coverage Status](https://coveralls.io/repos/bigeasy/xmldom/badge.png?branch=master)](https://coveralls.io/r/bigeasy/xmldom) [![NPM version](https://badge.fury.io/js/xmldom.png)](http://badge.fury.io/js/xmldom)
 
 A JavaScript implementation of W3C DOM for Node.js, Rhino and the browser. Fully
